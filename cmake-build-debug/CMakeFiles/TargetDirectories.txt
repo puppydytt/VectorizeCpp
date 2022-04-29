@@ -1,0 +1,3 @@
+C:/vectorizeCpp/cmake-build-debug/CMakeFiles/vectorizeCpp.dir
+C:/vectorizeCpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/vectorizeCpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
